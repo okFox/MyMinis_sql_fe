@@ -2,3 +2,7 @@
   border: 2px black solid;
   border-radius: 5px;
 }
+
+.unit-detail {
+  background-color: lightskyblue;
+}

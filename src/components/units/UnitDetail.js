@@ -12,7 +12,7 @@ const UnitDetail = (props) => {
       <h5>{props.game}</h5>
       <h3>{props.title}</h3>
       <p>{props.faction}</p>
-  <p>Painted? {props.painted}</p>
+  <p>Painted? - {props.painted}</p>
     </div>
 
   );
